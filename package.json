@@ -2,13 +2,19 @@
     "name": "developers-dark-theme",
     "displayName": "Developers Dark Theme",
     "description": "Developers Dark Theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "BigTechTalk",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BigTechTalk/vscode-developers-dark-theme"
+    },
     "keywords": [
         "theme",
         "dark theme",
         "Developers Dark Theme",
-        "developers-dark-theme"
+        "developers-dark-theme",
+        "Big Tech Talk",
+        "bigtechtalk"
     ],
     "engines": {
         "vscode": "^1.59.0"
@@ -24,5 +30,8 @@
                 "path": "./themes/Developers Dark Theme-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "vsce": "^1.96.3"
     }
 }
