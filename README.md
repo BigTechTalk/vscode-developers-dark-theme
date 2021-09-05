@@ -10,11 +10,11 @@ This is the reason i came up with [Developers Dark Theme](https://marketplace.vi
 
 Will try to maintain the and upgrade the theme.
 
-ScreenShot:
+## ScreenShot:
 
-screen2.PNG
+![HTML screenshot](https://github.com/BigTechTalk/vscode-developers-dark-theme/blob/master/screen2.PNG)
 
-screen1.PNG
+![HTML screenshot](https://github.com/BigTechTalk/vscode-developers-dark-theme/blob/master/screen3.PNG)
 
 
 **Enjoy!**
