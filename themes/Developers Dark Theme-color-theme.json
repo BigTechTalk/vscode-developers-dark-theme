@@ -21,7 +21,14 @@
 		"activityBar.inactiveForeground": "#CCCCCC",
 		"activityBarBadge.foreground": "#212121",
 		"activityBar.background": "#212529",
-		"activityBar.foreground": "#a009f8",
+		"activityBar.foreground": "#ffffff",
+		
+"activityBar.dropBorder": "#fd0505",
+
+
+"activityBar.border": "#7f807f09",
+"activityBar.activeBorder": "#fbfbfb",
+"activityBar.activeBackground": "#212529",
 		//Sidebar
 		"sideBarTitle.foreground": "#edf2f4",
 		"sideBar.background": "#343a40",
