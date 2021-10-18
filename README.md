@@ -13,7 +13,7 @@ Will try to maintain and upgrade the theme.
 
 ![HTML screenshot](https://raw.githubusercontent.com/BigTechTalk/vscode-developers-dark-theme/master/screen2.PNG)
 
-![HTML screenshot](https://raw.githubusercontent.com/BigTechTalk/vscode-developers-dark-theme/master/screen3.PNG)
+![HTML screenshot](https://raw.githubusercontent.com/BigTechTalk/vscode-developers-dark-theme/master/screen1.PNG)
 
 
 **Enjoy!**
