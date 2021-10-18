@@ -19,16 +19,13 @@
 		"editorWarning.foreground": "#FAD000",
 		//Activity Bar
 		"activityBar.inactiveForeground": "#CCCCCC",
-		"activityBarBadge.foreground": "#212121",
+		"activityBarBadge.foreground": "#f8f7f7",
 		"activityBar.background": "#212529",
 		"activityBar.foreground": "#ffffff",
-		
-"activityBar.dropBorder": "#fd0505",
-
-
-"activityBar.border": "#7f807f09",
-"activityBar.activeBorder": "#fbfbfb",
-"activityBar.activeBackground": "#212529",
+		"activityBar.dropBorder": "#fd0505",
+		"activityBar.border": "#ecf1ec09",
+		"activityBar.activeBorder": "#fbfbfb",
+		"activityBar.activeBackground": "#212529",
 		//Sidebar
 		"sideBarTitle.foreground": "#edf2f4",
 		"sideBar.background": "#343a40",
